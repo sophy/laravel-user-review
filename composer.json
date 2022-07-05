@@ -1,5 +1,5 @@
 {
-    "name": "dgvai/laravel-user-review",
+    "name": "sophy/laravel-user-review",
     "description": "A Laravel Package for User Review on Models, like Product review for ecommerce systems.",
     "type": "laravel-package",
     "license": "MIT",

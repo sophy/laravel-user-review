@@ -5,14 +5,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jalal Uddin",
-            "email": "dgvai-git@users.noreply.github.com"
+            "name": "Sophy Prak",
+            "email": "sophy.prak@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {
         "php": "^7.2",
-        "laravel/framework": "^6.20.26|^7.30.4|^8.40"
+        "laravel/framework": "^6.20.26|^7.30.4|^8.40|^9.0"
     },
     "autoload": {
         "psr-4": {
